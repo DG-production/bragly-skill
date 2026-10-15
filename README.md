@@ -10,7 +10,7 @@ This repo has two parts, both built on open standards:
 ## Claude Code and Cowork
 
 ```
-/plugin marketplace add dg-production/bragly
+/plugin marketplace add dg-production/bragly-skill
 /plugin install bragly@bragly
 ```
 

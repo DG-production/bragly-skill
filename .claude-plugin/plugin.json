@@ -9,11 +9,11 @@
   },
   "homepage": "https://bragly.io",
   "icon": "./logo.png",
-  "documentationUrl": "https://github.com/DG-production/bragly#readme",
+  "documentationUrl": "https://github.com/DG-production/bragly-skill#readme",
   "supportUrl": "https://bragly.io/contact",
   "privacyPolicyUrl": "https://bragly.io/privacy-policy",
   "termsOfServiceUrl": "https://bragly.io/terms-of-service",
-  "repository": "https://github.com/DG-production/bragly",
+  "repository": "https://github.com/DG-production/bragly-skill",
   "license": "MIT",
   "keywords": ["reviews", "testimonials", "social-proof", "nps", "marketing"]
 }
