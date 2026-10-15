@@ -1,0 +1,19 @@
+{
+  "name": "bragly",
+  "displayName": "Bragly",
+  "version": "0.1.0",
+  "description": "Manage your Bragly social proof from your AI assistant: triage and tag reviews, report on sentiment and NPS, and build walls of love.",
+  "author": {
+    "name": "Bragly",
+    "url": "https://bragly.io"
+  },
+  "homepage": "https://bragly.io",
+  "icon": "./logo.png",
+  "documentationUrl": "https://github.com/DG-production/bragly#readme",
+  "supportUrl": "https://bragly.io/contact",
+  "privacyPolicyUrl": "https://bragly.io/privacy-policy",
+  "termsOfServiceUrl": "https://bragly.io/terms-of-service",
+  "repository": "https://github.com/DG-production/bragly",
+  "license": "MIT",
+  "keywords": ["reviews", "testimonials", "social-proof", "nps", "marketing"]
+}

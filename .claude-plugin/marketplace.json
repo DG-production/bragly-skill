@@ -1,0 +1,15 @@
+{
+  "name": "bragly",
+  "description": "Official Bragly plugins for Claude.",
+  "owner": {
+    "name": "Bragly",
+    "url": "https://bragly.io"
+  },
+  "plugins": [
+    {
+      "name": "bragly",
+      "source": "./",
+      "category": "marketing"
+    }
+  ]
+}

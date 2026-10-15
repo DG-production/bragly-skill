@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "bragly": {
+      "type": "http",
+      "url": "https://app.bragly.io/api/mcp"
+    }
+  }
+}
